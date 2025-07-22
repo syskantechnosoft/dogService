@@ -7,25 +7,25 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.5.0</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>dogservicenew</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dogservicenew</name>
 	<description>dogservicenew</description>
-	<url />
+	<url/>
 	<licenses>
-		<license />
+		<license/>
 	</licenses>
 	<developers>
-		<developer />
+		<developer/>
 	</developers>
 	<scm>
-		<connection />
-		<developerConnection />
-		<tag />
-		<url />
+		<connection/>
+		<developerConnection/>
+		<tag/>
+		<url/>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-			<version>2.2.0</version>
+			<version>2.8.9</version>
 		</dependency>
 		<dependency>
 			<groupId>net.logstash.logback</groupId>
